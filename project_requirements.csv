@@ -1,8 +1,0 @@
-Project_ID,Functionality,Technologies,Deployment_Need
-1,Induction AND Safety,External SAAS,Cloud
-2,SSO Enabling External SAAS,SIMAAS,Cloud
-3,Incidents Recording and Safety Observation,Cloud,Cloud
-4,Subsea Video Loader,,"Cloud, On-prem"
-5,HSSE Training Staff and Contractors,Shell Academy,Cloud
-6,semantic data quality improvements and transformation,,Cloud
-7,Subsea media Storage,,Cloud
